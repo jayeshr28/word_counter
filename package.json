@@ -1,6 +1,6 @@
 {
   "name": "task1",
-  "homepage": "https://jayeshr28.github.io/record_table",
+  "homepage": "https://jayeshr28.github.io/word_counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
